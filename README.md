@@ -35,7 +35,7 @@ public expectations for search, and evolving system requirements.
 
 Additional information is provided in [the Instructions section](https://github.com/18F/tts-buy-searchgov-development/blob/master/solicitation_documents/RFQ.md#instructions) of the RFQ, but in short:
 
-> Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/SiUERsZvF1My4xRu1) and the [RFQ Pricing Response Form](https://github.com/18F/tts-buy-searchgov-development/blob/master/solicitation_documents/RFQ Pricing Form - Search.gov Development Support.xlsx), by the official closing date and time identified above. A late quotation will not be considered for award.
+> Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/SiUERsZvF1My4xRu1) and the [RFQ Pricing Response Form](https://github.com/18F/tts-buy-searchgov-development/blob/master/solicitation_documents/RFQ%20Pricing%20Form%20-%20Search.gov%20Development%20Support.xlsx), by the official closing date and time identified above. A late quotation will not be considered for award.
 
 ## Contributing
 
