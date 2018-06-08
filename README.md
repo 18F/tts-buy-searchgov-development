@@ -2,7 +2,7 @@
 
 Please submit any questions as [an Issue](https://github.com/18F/tts-buy-searchgov-development/issues) in this repository by *June 15, 2018 at 12:00pm ET*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Responses are due by June 22, 2018 at 12:00 pm ET.**
+**Quotes are due by June 22, 2018 at 12:00 pm ET.**
 
 ## Background
 
