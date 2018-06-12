@@ -41,7 +41,7 @@ Attachment 2 - RFQ Pricing Form - Search.gov Development Support
 
 Link 1 - [<span class="underline">GSA TTS Search.gov Development Support
 RFQ Response
-Form</span>](https://docs.google.com/forms/d/1c0fKzFdSDFvKTN8zoMoF6lJNGpcwOAmku9RPdhWr4Qw/prefill)
+Form</span>](https://goo.gl/forms/E0paZGTllbPnxIlT2)
 
 Link 2 - GitHub Repo:
 [<span class="underline">18F</span>](https://github.com/18F)/<span class="underline">tts-buy-searchgov-development</span>
@@ -77,7 +77,7 @@ amendment on GSA E-Buy.
 The Quoter shall submit a technical response, in accordance with the
 RFQ, via the [<span class="underline">GSA TTS Search.gov Development
 Support RFQ Response
-Form</span>](https://docs.google.com/forms/d/1c0fKzFdSDFvKTN8zoMoF6lJNGpcwOAmku9RPdhWr4Qw/edit?usp=sharing).
+Form</span>](https://goo.gl/forms/E0paZGTllbPnxIlT2).
 
 **Price Submittal:**
 
@@ -93,7 +93,7 @@ page</span>](https://github.com/18F/tts-buy-searchgov-development.git).
 Quoters shall download the Pricing Form, fill in the information
 required, and upload it to Section 5 on the [<span class="underline">GSA
 TTS Search.gov Development Support RFQ Response
-Form</span>](https://docs.google.com/forms/d/1c0fKzFdSDFvKTN8zoMoF6lJNGpcwOAmku9RPdhWr4Qw/edit?usp=sharing).
+Form</span>](https://goo.gl/forms/E0paZGTllbPnxIlT2).
 
 Quotes are due as soon as possible, but no later than Noon EST on June
 22, 2018.
